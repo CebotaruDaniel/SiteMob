@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+*{
+	font-family: 'Dosis', sans-serif;
+	scroll-behavior: smooth;
+}
+
+.card img{
+ width:100%;
+}
+
+
+.card2{
+	gap: 2rem;
+	color: black;
+}
+
+.logo{
+	width: 7rem;
+}
+
+.cardtwo img{
+	width:4rem;
+ }
+
+
+.cardone{
+	width: auto;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: white;
+	padding: 2rem;
+	gap: 1rem;
+}
+
+.cardtwo{
+	height: auto;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: white;
+	padding: 2rem 1rem;
+	gap: 1rem;
+	border-radius: 10px;
+}
+
+.cumlucramicon{
+	gap: 1.2rem;
+}
+
+
+.work{
+	padding: 5rem 5rem;
+}
+
+.text h2{
+	font-size: 1.2rem;
+	text-align: center;
+	font-weight: bold;
+}
+
+.text-despre{
+	font-weight: 400;
+	font-family: 'Poiret One', cursive;
+	text-transform: uppercase;
+}
+
+.map-container {
+	height: 700px;
+	z-index: -1;
+}
+
+.img-phone{
+	width: 4rem;
+}
+
+.gapflex{
+	gap: 2rem;
+}
+
+.map{
+	background-color: rgba(0, 0, 0, 0.876);
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+.number{
+	background-color: rgba(0, 0, 0, 0.876);
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+.text-icon{
+	font-size: 1.3rem;
+	text-transform: bold;
+}
+
+
+.text-intro{
+	font-family: 'Dosis', sans-serif;
+}
+
+.text-catalog{
+	width: 100vw;
+}
+
+.heading-catalog{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+
+.line{
+	width: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+}
